@@ -3,7 +3,7 @@ title: Hire Me
 tags:
   - creative coding
   - data visualisation
-subtitle: Motivation website
+subtitle: Motivation Website
 date: 2018-01-09 00:09:48
 cover_index: /images/Hire Me img/HireMe_index.jpg
 cover_detail: /images/Hire Me img/HireMe_detail.jpg

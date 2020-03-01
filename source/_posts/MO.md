@@ -18,4 +18,5 @@ Articles:
 [86 procent van alle vluchtelingen leeft in ontwikkelingslanden](https://www.mo.be/nieuws/ontwikkelingslanden-vangen-86-procent-vluchtelingen-op)
 [‘Zonder extra maatregelen gaan we van Islamitische Staat 2.0 naar Islamitische Staat 3.0’](https://www.mo.be/nieuws/zonder-extra-maatregelen-gaan-we-van-islamitische-staat-20-naar-islamitische-staat-30)
 
-### MO* Magazine
+## Client
+MO* Magazine

@@ -2,7 +2,6 @@
 menu:
   Home: /
   Archive: /archives
-  About: /source/about.html
 
 # Logo Image Source
 logo_src: 

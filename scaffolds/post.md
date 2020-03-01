@@ -1,5 +1,5 @@
 ---
-title: TITEL IN CAPS
+title: Titel
 tags:
   - creative coding
   - data visualisation
@@ -12,9 +12,8 @@ cover_detail: /images/giphy.gif
 photos: images/giphy.gif
 ---
 
-## Uitleg
 Hier komt je tekst
 Als je een linkje wil [Text linkje](https://hexo.io/docs/writing.html)
 
-## Opdrachtgever
+## Client
 Poëziecentrum

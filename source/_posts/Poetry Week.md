@@ -20,4 +20,5 @@ By partially randomizing the output, the visual changes upon every refresh.
 
 © Adapted Code by Leenke De Donder based on an example from "Generative Gestaltung" (P_3_1_2_01).
 
-### Poëziecentrum Gent
+## Client
+Poëziecentrum Gent
